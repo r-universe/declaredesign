@@ -1,0 +1,22 @@
+[
+  {
+    "package": "DeclareDesign",
+    "oncran": true
+  },
+  {
+    "package": "DesignLibrary",
+    "oncran": true
+  },
+  {
+    "package": "estimatr",
+    "oncran": true
+  },
+  {
+    "package": "fabricatr",
+    "oncran": true
+  },
+  {
+    "package": "randomizr",
+    "oncran": true
+  }
+]
