@@ -1,5 +1,13 @@
 [
   {
+    "package": "DeclareDesign",
+    "oncran": true
+  },
+  {
+    "package": "DesignLibrary",
+    "oncran": true
+  },
+  {
     "package": "estimatr",
     "oncran": true
   },
