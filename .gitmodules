@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DeclareDesign"]
-	path = DeclareDesign
-	url = https://github.com/declaredesign/declaredesign
-	shallow = true
-	registered = true
 [submodule "DesignLibrary"]
 	path = DesignLibrary
 	url = https://github.com/declaredesign/designlibrary
+	shallow = true
+	registered = true
+[submodule "randomizr"]
+	path = randomizr
+	url = https://github.com/declaredesign/randomizr
 	shallow = true
 	registered = true
 [submodule "estimatr"]
@@ -23,8 +23,8 @@
 	url = https://github.com/declaredesign/fabricatr
 	shallow = true
 	registered = true
-[submodule "randomizr"]
-	path = randomizr
-	url = https://github.com/declaredesign/randomizr
+[submodule "DeclareDesign"]
+	path = DeclareDesign
+	url = https://github.com/declaredesign/declaredesign
 	shallow = true
 	registered = true
