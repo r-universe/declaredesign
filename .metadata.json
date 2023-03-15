@@ -1,10 +1,10 @@
 [
   {
-    "package": "DesignLibrary",
+    "package": "DeclareDesign",
     "oncran": true
   },
   {
-    "package": "randomizr",
+    "package": "DesignLibrary",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "DeclareDesign",
+    "package": "randomizr",
     "oncran": true
   }
 ]
