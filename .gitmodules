@@ -14,6 +14,10 @@
 [submodule "fabricatr"]
 	path = fabricatr
 	url = https://github.com/declaredesign/fabricatr
+[submodule "interference"]
+	path = interference
+	url = https://github.com/szonszein/interference
+	registered = false
 [submodule "randomizr"]
 	path = randomizr
 	url = https://github.com/declaredesign/randomizr
