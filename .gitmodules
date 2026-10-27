@@ -17,3 +17,6 @@
 [submodule "randomizr"]
 	path = randomizr
 	url = https://github.com/declaredesign/randomizr
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/declaredesign/rdss
